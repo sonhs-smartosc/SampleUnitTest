@@ -1,4 +1,4 @@
-module mocktest
+module testgomock
 
 go 1.20
 
